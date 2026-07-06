@@ -1,3 +1,4 @@
 .env
 .venv
 .lock
+__pycache__
